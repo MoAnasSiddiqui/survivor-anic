@@ -4,3 +4,4 @@ seaborn
 joblib
 streamlit
 scikit-learn
+xgboost
